@@ -1,20 +1,5 @@
 AddCSLuaFile()
 
-/*	--------------------------------------------
-	Coded by Daniel Fewster during April of 2019
-	
-	Developer Notes:
-	I wrote this with the intention that someone, 
-	somewhere, may or may not want this kind of 
-	thing. I deeply appreciate whoever purchases 
-	this and finds some use out of it. I enjoyed 
-	writing this simple entity, and hope it gets 
-	some use. Thank you!
-	
-	Contact Me:
-	https://www.gmodstore.com/users/danno
-*/	--------------------------------------------
-
 ENT.PrintName 		= "Simple Box"
 ENT.Author 			= "Daniel Fewster"
 ENT.Information 	= "A simple box inventory that stores items dropped into it, and then vomits them back out on request."
